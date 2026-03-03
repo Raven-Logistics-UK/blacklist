@@ -1,0 +1,13 @@
+name = "raven-logistics-blacklist"
+compatibility_date = "2024-03-01"
+
+pages_build_output_dir = "./"
+
+[site]
+bucket = "./"
+
+[env.production]
+name = "raven-logistics-blacklist"
+
+[env.preview]
+name = "raven-logistics-blacklist-preview"
