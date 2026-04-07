@@ -40,5 +40,17 @@
     "discord_username": "vivacious_sparrow_75915",
     "reason": "Spreading misinformation..",
     "moderator": "Raven Logistics UK Ownership Team"
+  },
+    {
+    "discord_id": "623554236000632861",
+    "discord_username": "collox09",
+    "reason": "Globally Blacklisted",
+    "moderator": "PlayPlanets Shareholders"
+  },
+    {
+    "discord_id": "1141750975661609080",
+    "discord_username": "darkamerg",
+    "reason": "Globally Blacklisted",
+    "moderator": "PlayPlanets Shareholders"
   }
 ]
